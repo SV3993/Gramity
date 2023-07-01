@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gramity/static/css/main.747dad41.css",
+    "main.js": "/gramity/static/js/main.6542b6c2.js",
+    "static/js/787.719ec76d.chunk.js": "/gramity/static/js/787.719ec76d.chunk.js",
+    "index.html": "/gramity/index.html",
+    "main.747dad41.css.map": "/gramity/static/css/main.747dad41.css.map",
+    "main.6542b6c2.js.map": "/gramity/static/js/main.6542b6c2.js.map",
+    "787.719ec76d.chunk.js.map": "/gramity/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.747dad41.css",
+    "static/js/main.6542b6c2.js"
+  ]
+}
